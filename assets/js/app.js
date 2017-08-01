@@ -15,7 +15,7 @@ function startIntro() {
       "Calling on stage, our host for the evening <strong class='underline'>Akansha</strong>"
     ],
     showCursor: false,
-    backDelay: 1000,
+    backDelay: 1200,
     startDelay: 1500,
     contentType: 'html'
   });
