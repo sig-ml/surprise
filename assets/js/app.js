@@ -9,7 +9,7 @@ function startIntro() {
       "It's great to have you here with us today.",
       "So without much further a do,",
       "Lets get started 😈",
-      "Calling on stage, our host for the evening <strong class='underline'>Akansha</strong>"
+      "Calling on stage, our host for the evening <strong class='underline'>Akansha</strong> & <strong class='underline'>Rupam</strong>"
     ],
     showCursor: false,
     backDelay: 1200,

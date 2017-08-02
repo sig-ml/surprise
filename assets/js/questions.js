@@ -6,6 +6,7 @@ var string = '#' + i;
 var string2 = '#' + i + 'n';
 function randomNum() {
   return (Math.floor((Math.random() * 5) + 1)*1000)
+  // return 1
 }
 function hideNames() {
   //task
