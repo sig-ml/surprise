@@ -37,7 +37,10 @@ h3 {
 
 h4 {
   font-size: 2rem; }
-
+  .super_hide{
+      position:fixed;
+      top:-1000px; /* you would need to know how height the content is or put something huge*/
+  }
 h5 {
   font-size: 1.75rem; }
 
